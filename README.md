@@ -1,6 +1,7 @@
 # To-Do List App with HTML, CSS, and JavaScript
 
-![Screenshot_6-5-2024_164940_127 0 0 1](https://github.com/DAKSHPATEL04/To-Do-List-App-with-HTML-CSS-and-JavaScript/assets/160720470/37d22842-7ece-4183-a13f-d37208b26749)
+![Screenshot_6-5-2024_165641_127 0 0 1](https://github.com/DAKSHPATEL04/To-Do-List-App-with-HTML-CSS-and-JavaScript/assets/160720470/34f12293-eea0-49dd-b36b-3a5f3dfce800)
+
 
 # Description:
 
